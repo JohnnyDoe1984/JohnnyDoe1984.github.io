@@ -1,5 +1,5 @@
 # JohnnyDoe1984.github.io
-Making a noob repo
+<h2 align="center">Making A Noob Repo</h2>
 
 Come on, Cohagan! You got what you wanted! Give this people air! 
 
